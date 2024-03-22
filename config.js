@@ -68,7 +68,7 @@ module.exports = {
   packname: process.env.PackName || "Queen Zeenu MZ",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
   footer: process.env.Footer || "© Queen Zeenu Bot",
-  prefa: process.env.Prefix || ['-'],
+  prefa: process.env.Prefix || ['.'],
   themeemoji: process.env.ThemeEmoji || "❤️",
   ownername: process.env.Owner_Name || "Zeenu~MZ",
   ownernumber: process.env.Owner_Number || "923405597632",
@@ -110,7 +110,7 @@ global.author = process.env.Author || "@zeenu_Bot"
 global.packname = process.env.PackName || "Queen Zeenu MZ" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
 global.footer = process.env.Footer || "© Queen Zeenu Bot" 
-global.prefa = process.env.Prefix || ['-'] 
+global.prefa = process.env.Prefix || ['.'] 
 global.themeemoji = process.env.ThemeEmoji || "❤️" 
 global.ownername = process.env.Owner_Name || "Zeenu~MZ" 
 global.ownernumber = process.env.Owner_Number || "923405597632" 
