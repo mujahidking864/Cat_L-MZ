@@ -63,18 +63,18 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
+  botname: process.env.BotName || "Queen Zeenu", 
+  author: process.env.Author || "@zeenu_Bot",
+  packname: process.env.PackName || "Queen Zeenu MZ",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
+  footer: process.env.Footer || "© Queen Zeenu Bot",
   prefa: process.env.Prefix || ['-'],
-  themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
-  ownernumber: process.env.Owner_Number || "916900904828",
+  themeemoji: process.env.ThemeEmoji || "❤️",
+  ownername: process.env.Owner_Name || "Zeenu~MZ",
+  ownernumber: process.env.Owner_Number || "923405597632",
   instagramId: process.env.Insta || "8.08_only_mine",
   warns: process.env.Warns_Limits || 3,
-  mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
+  mongoUrl: process.env.MongoDB || "mongodb+srv://mujahidking864:<Mj007#>@cluster0.wmzsdy3.mongodb.net/",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
@@ -105,17 +105,17 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
-global.packname = process.env.PackName || "Queen Anya v2 MD" 
+global.botname = process.env.BotName || "Queen Zeenu" 
+global.author = process.env.Author || "@zeenu_Bot" 
+global.packname = process.env.PackName || "Queen Zeenu MZ" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
+global.footer = process.env.Footer || "© Queen Zeenu Bot" 
 global.prefa = process.env.Prefix || ['-'] 
-global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
-global.adress = process.env.Continent || "Asia, India, Assam" 
-global.timezone = process.env.TimeZone || "Asia/Kolkata" 
+global.themeemoji = process.env.ThemeEmoji || "❤️" 
+global.ownername = process.env.Owner_Name || "Zeenu~MZ" 
+global.ownernumber = process.env.Owner_Number || "923405597632" 
+global.adress = process.env.Continent || "Asia, Pakistan Faisalabad" 
+global.timezone = process.env.TimeZone || "Asia/Karachi" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
 global.email = process.env.Email_Id || "example@example.com" 
   
